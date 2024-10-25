@@ -1,4 +1,4 @@
-///
+
 const WIDTH: usize = 22;  // Ширина конверта
 const HEIGHT: usize = 22; // Висота конверта
 #[test]
